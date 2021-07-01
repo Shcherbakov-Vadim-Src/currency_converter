@@ -1,0 +1,6 @@
+export const SUMM_CHANGE = 'SUMM_CHANGE';
+export const CURRENCY_CHANGE = 'CURRENCY_CHANGE';
+export const LEFT_CHANGE = 'APP/LEFT_CHANGE';
+export const RIGHT_CHANGE = 'RIGHT_CHANGE';
+export const FETCH_START = 'FETCH_START'; 
+export const BOTTOM_CONVERTION = 'BOTTOM_CONVERTION';
